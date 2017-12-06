@@ -1,13 +1,2 @@
-/build/
-/out/
-/bin/
-/com/
-.gradle/
-.nb-gradle/
-.nb-gradle-properties
-*.iml
-.idea/
-.settings/
-.project
-.classpath
-.vscode/
+origin:6919+Mystic+Woods+Way+Columbia+MD+21044
+destination:3+Fraternity+Row+College+Park+MD+20740
